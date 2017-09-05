@@ -1,0 +1,10 @@
+C:\Users\Admin\U04091702\U04091702\bin\Debug\U04091702.exe.config
+C:\Users\Admin\U04091702\U04091702\bin\Debug\U04091702.exe
+C:\Users\Admin\U04091702\U04091702\bin\Debug\U04091702.pdb
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.csprojResolveAssemblyReference.cache
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.Form1.resources
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.Properties.Resources.resources
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.csproj.GenerateResource.Cache
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.csproj.CoreCompileInputs.cache
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.exe
+C:\Users\Admin\U04091702\U04091702\obj\Debug\U04091702.pdb
